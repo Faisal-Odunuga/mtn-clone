@@ -5,5 +5,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Deployment
 
 Check out the project live: (https://mtn-clone-faisal-odunugas-projects.vercel.app/)
-
-
